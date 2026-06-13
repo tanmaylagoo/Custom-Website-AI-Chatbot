@@ -20,10 +20,10 @@ The application extracts website content, converts it into vector embeddings, st
 ## Tech Stack
 
 * Python
-* LangChain 1.x
+* LangChain 1.3.9
 * Pinecone
 * Hugging Face Transformers
-* Qwen 2.5 Instruct
+* Qwen/Qwen2.5-1.5B-Instruct
 * BAAI BGE Embeddings
 * Google Colab
 * Unstructured URL Loader
